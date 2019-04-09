@@ -17,7 +17,7 @@ html,body {
 	cursor: pointer;
 }
 
-.selector-item:hover{
+.selector-active,.selector-item:hover{
 	color: red;
 	background: #9adeff;
 }
