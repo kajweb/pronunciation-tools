@@ -1,0 +1,48 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.selector{
+	margin: 5px 0;
+}
+
+.selector-item{
+	margin: 5px;
+	background: #12b1ff;
+	padding: 5px 15px;
+	display: inline-block;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+}
+
+.selector-item:hover{
+	color: red;
+	background: #9adeff;
+}
+
+table {
+    text-align: center;
+}
+
+table tr:nth-child(even) {
+    background: #73B1E0;
+    color: #FFF;
+}
+
+table tr:hover:nth-child(odd) {
+    background: #ccc;
+}
+
+table tr:hover:nth-child(even){
+    background: #608cad;
+}
+
+.symbol {
+    cursor: pointer;
+}
+
+.symbol:hover {
+    color: red;
+}

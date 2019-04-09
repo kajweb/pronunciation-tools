@@ -1,11 +1,19 @@
 <html>
-<head></head>
+<head>
+	<title>程序员的发音工具箱</title>
+	<meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	<link rel="stylesheet"  href="./static/index.css">
+	<script src="./static/httpRequest.min.js"></script>
+</head>
 <body>
-
-<audio id="audio" controls="" preload="none">
-	<source id="mp3" src="http://dict.youdao.com/dictvoice?audio=symbol&type=2">
-</audio>
+	
+<div class="selector">
+	<div class="selector-item" onclick="getJson('html')">html</div>
+	<div class="selector-item" onclick="getJson('css')">css</div>
+	<div class="selector-item" onclick="getJson('javascript')">js</div>
+	<div class="selector-item" onclick="getJson('php')">php</div>
+</div>
 
 </body>
-<script src="load.js"></script>
+<script src="./static/index.js"></script>
 </html>
