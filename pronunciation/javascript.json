@@ -24,18 +24,66 @@
     },
     {
         "word": "symbol",
-        "en_": "['sɪmb(ə)l]",
+        "en": "['sɪmb(ə)l]",
         "en_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=1",
         "us": "['sɪmbl]",
         "us_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=2",
         "explain": "ES6引入了一种新的原始数据类型Symbol"
     },
     {
-    "word": "arguments",
-    "en": "['ɑːgjʊm(ə)nts]",
-    "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
-    "us": "['ɑrɡjumənts]",
-    "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
-    "explain": "n. 参数"
-    }
-]}
+        "word": "arguments",
+        "en": "['ɑːgjʊm(ə)nts]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
+        "us": "['ɑrɡjumənts]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
+        "explain": "n. 参数"
+    },
+    {
+        "word": "concat",
+        "en": "暂无音标",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=concat&type=1",
+        "us": "暂无音标",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=concat&type=2",
+        "explain": "数组连接"
+    },
+    {
+        "word": "apply",
+        "en": "[ə'plaɪ]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=apply&type=1",
+        "us": "[ə'plaɪ]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=apply&type=2",
+        "explain": "修改this指向"
+    },
+    {
+        "word": "function",
+        "en": "['fʌŋ(k)ʃ(ə)n]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=function&type=1",
+        "us": "['fʌŋkʃən]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=function&type=2",
+        "explain": "函数"
+    },
+    {
+        "word": "prototype",
+        "en": "['prəʊtətaɪp]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=1",
+        "us": "['protə'taɪp]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=2",
+        "explain": "n. 原型；标准，模范"
+    },
+    {
+        "word": "assign",
+        "en": "[ə'saɪn]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=assign&type=1",
+        "us": "[ə'saɪn]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=assign&type=2",
+        "explain": "Object.assign"
+    },
+    {
+        "word": "constructor",
+        "en": "[kənˈstrʌktə(r)]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
+        "us": "[kənˈstrʌktər]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
+        "explain": "n. 构造函数；构造器；建造者"
+    }]
+}
