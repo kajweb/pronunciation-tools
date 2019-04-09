@@ -60,7 +60,7 @@ function createTable( data ){
         }
 
         td = document.createElement("td");
-        if( !item['explain'] ){
+        if( item['explain'] ){
             td.appendChild( document.createTextNode( item['explain'] ));
             tr.appendChild( td );
         }
