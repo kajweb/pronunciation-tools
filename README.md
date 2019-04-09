@@ -3,12 +3,12 @@
 ## 使用地址
 请进入[GitHub Pages][GitHub Pages]查看并使用:
 
-|语言|链接|
-|---|---|
-|html|[html][html]|
-|css|[css][css]|
-|js|[js][js]|
-|php|[php][php]|
+|语言 - 链接|
+|---|
+|[html][html]|
+|[css][css]|
+|[js][js]|
+|[php][php]|
 
 
 ## 开发教程
