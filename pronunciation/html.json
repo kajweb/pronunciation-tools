@@ -5,6 +5,12 @@
 			"mixed": "[,eitʃ ti: em 'el] ",
 			"mixed_video": "http://dict.youdao.com/dictvoice?audio=HTML",
 			"explain": "abbr. 超文本标记语言（Hypertext Markup Language）"
+		},
+		{
+		    "word": "front-end",
+		    "mixed": "['frʌnt'ɛnd]",
+		    "mixed_video": "http://dict.youdao.com/dictvoice?audio=front-end",
+		    "explain": "前端"
 		}
 	]
 }

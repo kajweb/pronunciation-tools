@@ -75,6 +75,9 @@
     <tbody>
 </table> 
 
+[json生成器][tools]
+
+
 > `mixed系列`与`en系列`、`us系列`不共存。mixed用于在不知悉是英式发音还是美式发音时使用（直接合并为一个单元格）。
 
 
@@ -84,3 +87,4 @@
 [css]:https://kajweb.github.io/pronunciation-tools/?type=css
 [js]:https://kajweb.github.io/pronunciation-tools/?type=js
 [php]:https://kajweb.github.io/pronunciation-tools/?type=php
+[tools]:https://kajweb.github.io/pronunciation-tools/generator.html

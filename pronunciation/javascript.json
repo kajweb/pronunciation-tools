@@ -1,12 +1,41 @@
 {
-	"data":[
-		{
-			"word": "javascript",
-			"en": "['dʒɑ:və,skrɪpt] ",
-			"en_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=1",
-			"us": "['dʒɑvə,skrɪpt]",
-			"us_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=2",
-			"explain": "JavaScript一种直译式脚本语言"
-		}
-	]
-}
+    "data": [
+    {
+        "word": "javascript",
+        "en": "['dʒɑ:və,skrɪpt] ",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=1",
+        "us": "['dʒɑvə,skrɪpt]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=2",
+        "explain": "JavaScript一种直译式脚本语言"
+    },
+    {
+        "word": "boolean",
+        "mixed": "['bʊlɪən]",
+        "mixed_video": "http://dict.youdao.com/dictvoice?audio=Boolean",
+        "explain": "布尔型"
+    },
+    {
+        "word": "null",
+        "en": "[nʌl]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
+        "us": "[nʌl]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
+        "explain": "null"
+    },
+    {
+        "word": "symbol",
+        "en_": "['sɪmb(ə)l]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=1",
+        "us": "['sɪmbl]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=2",
+        "explain": "ES6引入了一种新的原始数据类型Symbol"
+    },
+    {
+    "word": "arguments",
+    "en": "['ɑːgjʊm(ə)nts]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
+    "us": "['ɑrɡjumənts]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
+    "explain": "n. 参数"
+    }
+]}
