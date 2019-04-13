@@ -1,11 +1,11 @@
 window.onload = () => {
-    init();
+    initType();
 }
 
-function init(){
+function initType(){
     let type = GetQueryString("type");
     if( !type )
-        getJson("html");
+        getJson("commonly");
     else
         getJson(type);
 

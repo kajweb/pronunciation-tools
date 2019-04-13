@@ -1,0 +1,25 @@
+{
+	"data":[
+		{
+		    "word": "chrome",
+		    "en": "[krəʊm]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=chrome&type=1",
+		    "us": "[krom]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=chrome&type=2",
+		    "explain": "谷歌浏览器"
+		},{
+		    "word": "opera",
+		    "en": "['ɒp(ə)rə]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=opera&type=1",
+		    "us": "['ɑprə]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=opera&type=2",
+		    "explain": "欧朋浏览器"
+		},{
+		    "word": "Artificial Intelligence",
+		    "mixed": "词组",
+		    "mixed_video": "http://dict.youdao.com/dictvoice?audio=Artificial+Intelligence",
+		    "explain": "人工智能"
+		}
+
+	]
+}

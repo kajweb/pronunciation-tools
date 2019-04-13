@@ -5,6 +5,13 @@
 			"mixed": "['paɪθɑn]",
 			"mixed_video": "http://dict.youdao.com/dictvoice?audio=python",
 			"explain": "万金油"
+		},{
+		    "word": "selenium",
+		    "en": "[sɪ'liːnɪəm]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=selenium&type=1",
+		    "us": "[sə'linɪəm]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=selenium&type=2",
+		    "explain": "浏览器自动化测试框架"
 		}
 	]
 }

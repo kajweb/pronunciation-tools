@@ -1,0 +1,12 @@
+{
+	"data":[
+	    {
+	        "word": "node",
+	        "en": "[nəʊd]",
+	        "en_video": "http://dict.youdao.com/dictvoice?audio=node&type=1",
+	        "us": "[nod]",
+	        "us_video": "http://dict.youdao.com/dictvoice?audio=node&type=2",
+	        "explain": "基于Chrome V8引擎的JS运行环境。"
+	    }
+	]
+}
