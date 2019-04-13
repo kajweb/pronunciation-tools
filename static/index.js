@@ -18,6 +18,15 @@ function changeData( _this ){
     getJson(type);
 }
 
+let mask = {
+    show(){
+        document.getElementById("mask").style.display="flex"
+    },
+    hide(){
+        document.getElementById("mask").style.display="none"
+    }
+}
+
 function getJson(type) {
     console.log("切换数据")
     let selector = Array.from(document.getElementsByClassName("selector-item"));
@@ -30,7 +39,9 @@ function getJson(type) {
     })
     let _timestamp = "timestamp=" + new Date().getTime();
     let _url = String.format("./pronunciation/{0}.json?" + _timestamp, type);
+    mask.show();
     $httpRequest.ajaxJson(_url, (e) => {
+        mask.hide();
         createTable(e.data)
     })
 }

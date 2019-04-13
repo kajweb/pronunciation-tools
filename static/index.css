@@ -46,3 +46,38 @@ table tr:hover:nth-child(even){
 .symbol:hover {
     color: red;
 }
+
+#mask{
+	background: #fff;
+	opacity: 0.5;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 300px;
+    font-weight: bold;
+    color: blue;
+    user-select:none;
+}
+
+#mask span{
+	animation: rotate 3s linear infinite,setColor 10s linear infinite;
+}
+
+@keyframes rotate{from{transform: rotate(0deg)}
+    to{transform: rotate(359deg)}
+}
+
+@-webkit-keyframes setColor {
+	0% { color: #e74c3c; }
+	20% { color: #f1c40f; }
+	40% { color: #1abc9c; }
+	60% { color: #3498db; }
+	80% { color: #9b59b6; }
+	100% { color: #e74c3c; }
+}
