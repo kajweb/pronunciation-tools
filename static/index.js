@@ -28,7 +28,7 @@ function getJson(type) {
             e.setAttribute("class", "selector-item" );
         }
     })
-    let _timestamp = "timestamp" + new Date().getTime();
+    let _timestamp = "timestamp=" + new Date().getTime();
     let _url = String.format("./pronunciation/{0}.json?" + _timestamp, type);
     $httpRequest.ajaxJson(_url, (e) => {
         createTable(e.data)

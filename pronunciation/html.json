@@ -19,5 +19,26 @@
         "us": "['stɔrɪdʒ]",
         "us_video": "http://dict.youdao.com/dictvoice?audio=storage&type=2",
         "explain": "n. 存储；仓库；贮藏所"
+    },{
+        "word": "margin",
+        "en": "['mɑːdʒɪn]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=margin&type=1",
+        "us": "['mɑrdʒən]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=margin&type=2",
+        "explain": "margin 属性设置元素的外边距。"
+    },{
+        "word": "FLEX",
+        "en": "[fleks]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=flex&type=1",
+        "us": "[flɛks]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=flex&type=2",
+        "explain": "弹性FLEX布局"
+    },{
+        "word": "content",
+        "en": "[kən'tent]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=content&type=1",
+        "us": "['kɑntɛnt]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=content&type=2",
+        "explain": "n. 内容，目录；满足；容量"
     }]
 }
