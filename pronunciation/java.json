@@ -1,0 +1,25 @@
+{
+	"data":[
+		{
+	        "word": "Java",
+	        "en": "['dʒɑːvə]",
+	        "en_video": "http://dict.youdao.com/dictvoice?audio=Java&type=1",
+	        "explain": "n. 爪哇岛（位于印尼）"
+		},{
+		    "word": "servlet",
+		    "en": "[ˈsɜːvlɪt]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=servlet&type=1",
+		    "us": "['sɜvlet]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=servlet&type=2",
+		    "explain": "基于 web 的应用程序提供了基于组件、独立于平台的方法"
+		},
+		{
+		    "word": "exception",
+		    "en": "[ɪk'sepʃ(ə)n; ek-]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=exception&type=1",
+		    "us": "[ɪk'sɛpʃən]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=exception&type=2",
+		    "explain": "n. 例外；异议"
+		}
+	]
+}
