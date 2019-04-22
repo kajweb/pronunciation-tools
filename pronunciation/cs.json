@@ -1,0 +1,39 @@
+{
+	"data":[
+{
+    "word": "program",
+    "en": "['prəʊɡræm]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=program&type=1",
+    "us": "['proɡræm]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=program&type=2",
+    "explain": "\nn. 程序；计划；大纲"
+},
+
+ {
+    "word": "optimize",
+    "en": "['ɒptɪmaɪz]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=optimize&type=1",
+    "us": "['ɑptɪmaɪz]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=optimize&type=2",
+    "explain": "\nvt. 使最优化，使完善"
+},
+
+ {
+    "word": "memory",
+    "en": "['mem(ə)rɪ]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=memory&type=1",
+    "us": "['mɛməri]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=memory&type=2",
+    "explain": "\nn. 记忆，记忆力；内存"
+},
+
+{
+    "word": "pattern",
+    "en": "['pæt(ə)n]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=pattern&type=1",
+    "us": "[ˈpætərn]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=pattern&type=2",
+    "explain": "\nn. 模式；图案；样品"
+}
+	]
+}
