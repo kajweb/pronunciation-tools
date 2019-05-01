@@ -1,89 +1,174 @@
 {
     "data": [
-    {
-        "word": "javascript",
-        "en": "['dʒɑ:və,skrɪpt] ",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=1",
-        "us": "['dʒɑvə,skrɪpt]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=2",
-        "explain": "JavaScript一种直译式脚本语言"
-    },
-    {
-        "word": "boolean",
-        "mixed": "['bʊlɪən]",
-        "mixed_video": "http://dict.youdao.com/dictvoice?audio=Boolean",
-        "explain": "布尔型"
-    },
-    {
-        "word": "null",
-        "en": "[nʌl]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
-        "us": "[nʌl]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
-        "explain": "null"
-    },
-    {
-        "word": "symbol",
-        "en": "['sɪmb(ə)l]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=1",
-        "us": "['sɪmbl]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=2",
-        "explain": "ES6引入了一种新的原始数据类型Symbol"
-    },
-    {
-        "word": "arguments",
-        "en": "['ɑːgjʊm(ə)nts]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
-        "us": "['ɑrɡjumənts]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
-        "explain": "n. 参数"
-    },
-    {
-        "word": "concat",
-        "en": "暂无音标",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=concat&type=1",
-        "us": "暂无音标",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=concat&type=2",
-        "explain": "数组连接"
-    },
-    {
-        "word": "apply",
-        "en": "[ə'plaɪ]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=apply&type=1",
-        "us": "[ə'plaɪ]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=apply&type=2",
-        "explain": "修改this指向"
-    },
-    {
-        "word": "function",
-        "en": "['fʌŋ(k)ʃ(ə)n]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=function&type=1",
-        "us": "['fʌŋkʃən]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=function&type=2",
-        "explain": "函数"
-    },
-    {
-        "word": "prototype",
-        "en": "['prəʊtətaɪp]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=1",
-        "us": "['protə'taɪp]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=2",
-        "explain": "n. 原型；标准，模范"
-    },
-    {
-        "word": "assign",
-        "en": "[ə'saɪn]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=assign&type=1",
-        "us": "[ə'saɪn]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=assign&type=2",
-        "explain": "Object.assign"
-    },
-    {
-        "word": "constructor",
-        "en": "[kənˈstrʌktə(r)]",
-        "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
-        "us": "[kənˈstrʌktər]",
-        "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
-        "explain": "n. 构造函数；构造器；建造者"
-    }]
+        {
+            "word": "javascript",
+            "en": "['dʒɑ:və,skrɪpt] ",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=1",
+            "us": "['dʒɑvə,skrɪpt]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=2",
+            "explain": "JavaScript一种直译式脚本语言"
+        },
+        {
+            "word": "boolean",
+            "mixed": "['bʊlɪən]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=Boolean",
+            "explain": "布尔型"
+        },
+        {
+            "word": "null",
+            "en": "[nʌl]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
+            "us": "[nʌl]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
+            "explain": "null"
+        },
+        {
+            "word": "symbol",
+            "en": "['sɪmb(ə)l]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=1",
+            "us": "['sɪmbl]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=2",
+            "explain": "ES6引入了一种新的原始数据类型Symbol"
+        },
+        {
+            "word": "arguments",
+            "en": "['ɑːgjʊm(ə)nts]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
+            "us": "['ɑrɡjumənts]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
+            "explain": "n. 参数"
+        },
+        {
+            "word": "concat",
+            "en": "暂无音标",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=concat&type=1",
+            "us": "暂无音标",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=concat&type=2",
+            "explain": "数组连接"
+        },
+        {
+            "word": "apply",
+            "en": "[ə'plaɪ]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=apply&type=1",
+            "us": "[ə'plaɪ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=apply&type=2",
+            "explain": "修改this指向"
+        },
+        {
+            "word": "function",
+            "en": "['fʌŋ(k)ʃ(ə)n]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=function&type=1",
+            "us": "['fʌŋkʃən]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=function&type=2",
+            "explain": "函数"
+        },
+        {
+            "word": "prototype",
+            "en": "['prəʊtətaɪp]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=1",
+            "us": "['protə'taɪp]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=2",
+            "explain": "n. 原型；标准，模范"
+        },
+        {
+            "word": "assign",
+            "en": "[ə'saɪn]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=assign&type=1",
+            "us": "[ə'saɪn]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=assign&type=2",
+            "explain": "Object.assign"
+        },
+        {
+            "word": "constructor",
+            "en": "[kənˈstrʌktə(r)]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
+            "us": "[kənˈstrʌktər]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
+            "explain": "n. 构造函数；构造器；建造者"
+        },
+        {
+            "word": "null",
+            "en": "[nʌl]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
+            "us": "[nʌl]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
+            "explain": "\nadj. 无效的，无价值的；等于零的\nn. 零，[数] 空\n"
+        },
+        {
+            "word": "undefined",
+            "en": "[ʌndɪ'faɪnd]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=undefined&type=1",
+            "us": "[,ʌndɪ'faɪnd]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=undefined&type=2",
+            "explain": "\nadj. 不明确的；未下定义的\n"
+        },
+        {
+            "word": "string",
+            "en": "[strɪŋ]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=string&type=1",
+            "us": "[strɪŋ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=string&type=2",
+            "explain": "\nn. 线，弦，细绳；一串，一行\n"
+        },
+        {
+            "word": "object",
+            "en": "['ɒbdʒɪkt; -dʒekt]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=object&type=1",
+            "us": "['ɑbdʒɛkt]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=object&type=2",
+            "explain": "\nn. 目标；物体；客体；宾语\nvt. 提出…作为反对的理由\nvi. 反对；拒绝\n"
+        },
+        {
+            "word": "instanceof",
+            "us": "暂无音标",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=instance+of&type=2",
+            "explain": "\n（类的）实例；（某类别的） 实体\n"
+        },
+        {
+            "word": "constructor",
+            "en": "[kənˈstrʌktə(r)]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
+            "us": "[kənˈstrʌktər]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
+            "explain": "\nn. 构造函数；构造器；建造者\n"
+        },
+        {
+            "word": "module",
+            "en": "['mɒdjuːl]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=module&type=1",
+            "us": "['mɑdʒul]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=module&type=2",
+            "explain": "\nn. [计] 模块；组件；模数\n"
+        },
+        {
+            "word": "compiler",
+            "en": "[kəm'paɪlə]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=compiler&type=1",
+            "us": "[kəm'paɪlɚ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=compiler&type=2",
+            "explain": "\nn. 编译器；[计] 编译程序；编辑者，汇编者\n"
+        },
+        {
+            "word": "compilation",
+            "en": "[kɒmpɪ'leɪʃ(ə)n]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=compilation&type=1",
+            "us": "[,kɑmpɪ'leʃən]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=compilation&type=2",
+            "explain": "\nn. 编译；编辑；汇编\n"
+        },
+        {
+            "word": "prettier",
+            "en": "暂无音标",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=prettier&type=1",
+            "us": "暂无音标",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=prettier&type=2",
+            "explain": "一个代码规范和错误检查工具"
+        },
+        {
+            "word": "ESlint",
+            "mixed": "暂无音标",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=ESlint",
+            "explain": "一个代码规范和错误检查工具"
+        }
+    ]
 }
