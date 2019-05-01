@@ -1,0 +1,2 @@
+beautifulsoup4==4.7.1
+pywin32==224

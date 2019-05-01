@@ -1,0 +1,48 @@
+{
+	"data":[
+		{
+		    "word": "flutter",
+		    "en": "['flʌtə]",
+		    "en_video": "http://dict.youdao.com/dictvoice?audio=flutter&type=1",
+		    "us": "['flʌtɚ]",
+		    "us_video": "http://dict.youdao.com/dictvoice?audio=flutter&type=2",
+		    "explain": "\nvi. 飘动；鼓翼；烦扰\nvt. 拍；使焦急；使飘动\nn. 摆动；鼓翼；烦扰\n"
+		},
+		{
+    "word": "channel",
+    "en": "['tʃæn(ə)l]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=channel&type=1",
+    "us": "['tʃænl]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=channel&type=2",
+    "explain": "\nvt. 引导，开导；形成河道\nn. 通道；频道；沟渠；海峡\n"
+},
+{
+    "word": "dependencies",
+    "mixed": "[dɪ'pɛndənsi]",
+    "mixed_video": "http://dict.youdao.com/dictvoice?audio=dependencies",
+    "explain": "\nn. 依赖性，相关性；管理\n"
+},
+{
+    "word": "upgrade",
+    "en": "[ʌp'greɪd]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=upgrade&type=1",
+    "us": "[,ʌp'ɡred]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=upgrade&type=2",
+    "explain": "\nvt. 使升级；提升；改良品种\nn. 升级；上升；上坡\nadv. 往上\nadj. 向上的\n"
+},
+{
+    "word": "packages",
+    "en": "暂无音标",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=packages&type=1",
+    "us": "['pækɪdʒ]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=packages&type=2",
+    "explain": "\nn. 包装；[邮] 包裹（package的复数）；[计] 程序包\nv. 包装（package的三单形式）；装箱\n"
+},
+		{
+			"word": "Android Studio",
+			"mixed": "Android Studio",
+			"mixed_video": "http://dict.youdao.com/dictvoice?audio=Android%20Studio",
+			"explain": "安卓开发工具"
+		}
+	]
+}
