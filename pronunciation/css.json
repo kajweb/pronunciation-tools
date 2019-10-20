@@ -5,6 +5,74 @@
 			"mixed": "CSS",
 			"mixed_video": "http://dict.youdao.com/dictvoice?audio=CSS",
 			"explain": "层叠样式表（Cascading Style Sheets）"
-		}
+		},{
+            "word": "hover",
+            "en": "['hɒvə]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=hover&type=1",
+            "us": "['hʌvɚ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=hover&type=2",
+            "explain": "\nEle:hover\n"
+        },{
+            "word": "calc",
+            "en": "暂无音标",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=calc&type=1",
+            "us": "暂无音标",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=calc&type=2",
+            "explain": "\nabbr. 计算（calculation）\n"
+        },{
+            "word": "absolute",
+            "en": "['æbsəluːt]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=absolute&type=1",
+            "us": "['æbsəlut]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=absolute&type=2",
+            "explain": "\nadj. 绝对的；完全的；专制的\nn. 绝对；绝对事物\n"
+        },{
+            "word": "fixed",
+            "en": "[fɪkst]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=fixed&type=1",
+            "us": "[fɪkst]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=fixed&type=2",
+            "explain": "\nadj. 确定的；固执的；处境...的；准备好的\nv. 修理（过去式）\n"
+        },{
+            "word": "relative",
+            "en": "['relətɪv]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=relative&type=1",
+            "us": "['rɛlətɪv]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=relative&type=2",
+            "explain": "\nadj. 相对的；有关系的；成比例的\nn. 亲戚；相关物；[语] 关系词；亲缘植物\n"
+        },{
+            "word": "static",
+            "en": "['stætɪk]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=static&type=1",
+            "us": "['stætɪk]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=static&type=2",
+            "explain": "\nadj. 静态的；静电的；静力的\nn. 静电；静电干扰\n"
+        },{
+            "word": "inherit",
+            "en": "[ɪn'herɪt]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=inherit&type=1",
+            "us": "[ɪn'hɛrɪt]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=inherit&type=2",
+            "explain": "\nvt. 继承；遗传而得\nvi. 成为继承人\n"
+        },{
+            "word": "justify-content",
+            "mixed": "['dʒʌstə'fai]-['kɑntɛnt]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=justify-content",
+            "explain": "FLEX内容对齐(主轴（横轴）的对齐方式)"
+        },{
+            "word": "align-items",
+            "mixed": "['dʒʌstə'fai]-['kɑntɛnt]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=align-items",
+            "explain": "FLEX内容对齐(垂直方向上)"
+        },{
+    "word": "vertical",
+    "en": "['vɜːtɪk(ə)l]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=vertical&type=1",
+    "us": "['vɝtɪkl]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=vertical&type=2",
+    "explain": "\nadj. 垂直的，直立的；[解剖] 头顶的，顶点的；[植]纵长的，直上的\nn. 垂直线，垂直面；垂直位置\n"
+}
+
+        
 	]
 }

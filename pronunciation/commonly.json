@@ -20,21 +20,30 @@
 		    "mixed_video": "http://dict.youdao.com/dictvoice?audio=Artificial+Intelligence",
 		    "explain": "人工智能"
 		},{
-    "word": "session",
-    "en": "['seʃ(ə)n]",
-    "en_video": "http://dict.youdao.com/dictvoice?audio=session&type=1",
-    "us": "['sɛʃən]",
-    "us_video": "http://dict.youdao.com/dictvoice?audio=session&type=2",
-    "explain": "\nn. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会\n"
-}
-,{
-    "word": "cookies",
-    "en": "['kʊkiz]",
-    "en_video": "http://dict.youdao.com/dictvoice?audio=cookies&type=1",
-    "us": "['kʊkiz]",
-    "us_video": "http://dict.youdao.com/dictvoice?audio=cookies&type=2",
-    "explain": "\nn. 饼干\n"
-}
+            "word": "session",
+            "en": "['seʃ(ə)n]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=session&type=1",
+            "us": "['sɛʃən]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=session&type=2",
+            "explain": "\nn. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会\n"
+        },{
+            "word": "cookies",
+            "en": "['kʊkiz]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=cookies&type=1",
+            "us": "['kʊkiz]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=cookies&type=2",
+            "explain": "\nn. 饼干\n"
+        },{
+            "word": "Microsoft",
+            "mixed": "['maikrəusɔft]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=microsoft&type=3",
+            "explain": "\nn. 微软公司（全球知名的PC软件主要厂商）\n"
+        },{
+            "word": "withCredentials",
+            "us": "with[krə'dɛnʃlz]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=credentials&type=2",
+            "explain": "Access-Control-Allow-Credentials"
+        }
 
 	]
 }

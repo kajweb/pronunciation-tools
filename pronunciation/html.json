@@ -7,12 +7,23 @@
         "explain": "abbr. 超文本标记语言（Hypertext Markup Language）"
     },
     {
+        "word": "chrome",
+        "en": "[krəʊm]",
+        "en_video": "http://dict.youdao.com/dictvoice?audio=chrome&type=1",
+        "us": "[krom]",
+        "us_video": "http://dict.youdao.com/dictvoice?audio=chrome&type=2",
+        "explain": "\nn. 铬，铬合金；铬黄；谷歌浏览器\n"
+    },{
+        "word": "DOM",
+        "mixed": "[dɑm]",
+        "mixed_video": "http://dict.youdao.com/dictvoice?audio=dom",
+        "explain": "DOM"
+    },{
         "word": "front-end",
         "mixed": "['frʌnt'ɛnd]",
         "mixed_video": "http://dict.youdao.com/dictvoice?audio=front-end",
         "explain": "前端"
-    },
-    {
+    },{
         "word": "storage",
         "en": "['stɔːrɪdʒ]",
         "en_video": "http://dict.youdao.com/dictvoice?audio=storage&type=1",
@@ -40,5 +51,31 @@
         "us": "['kɑntɛnt]",
         "us_video": "http://dict.youdao.com/dictvoice?audio=content&type=2",
         "explain": "n. 内容，目录；满足；容量"
-    }]
+    },{
+    "word": "audio",
+    "en": "['ɔːdɪəʊ]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=audio&type=1",
+    "us": "['ɔdɪo]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=audio&type=2",
+    "explain": "\nadj. 声音的；[声] 音频的，[声] 声频的\n"
+},{
+    "word": "method",
+    "en": "['meθəd]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=method&type=1",
+    "us": "['mɛθəd]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=method&type=2",
+    "explain": "\nn. 方法；条理；类函数\nadj. 使用体验派表演方法的\n"
+},{
+    "word": "doctype",
+    "mixed": "暂无音标",
+    "mixed_video": "http://dict.youdao.com/dictvoice?audio=doctype",
+    "explain": "\nn. 文档类型\n"
+},{
+    "word": "expires",
+    "en": "[ɪk'spaɪəz]",
+    "en_video": "http://dict.youdao.com/dictvoice?audio=expires&type=1",
+    "us": "[ek- ɪk'spaɪɚz]",
+    "us_video": "http://dict.youdao.com/dictvoice?audio=expires&type=2",
+    "explain": "n. 到期；有效期"
+}]
 }

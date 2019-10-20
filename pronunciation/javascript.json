@@ -7,168 +7,232 @@
             "us": "['dʒɑvə,skrɪpt]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=javascript&type=2",
             "explain": "JavaScript一种直译式脚本语言"
-        },
-        {
+        },{
             "word": "boolean",
             "mixed": "['bʊlɪən]",
             "mixed_video": "http://dict.youdao.com/dictvoice?audio=Boolean",
             "explain": "布尔型"
-        },
-        {
+        },{
             "word": "null",
             "en": "[nʌl]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
             "us": "[nʌl]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
             "explain": "null"
-        },
-        {
+        },{
             "word": "symbol",
             "en": "['sɪmb(ə)l]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=1",
             "us": "['sɪmbl]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=symbol&type=2",
             "explain": "ES6引入了一种新的原始数据类型Symbol"
-        },
-        {
+        },{
             "word": "arguments",
             "en": "['ɑːgjʊm(ə)nts]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=1",
             "us": "['ɑrɡjumənts]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=arguments&type=2",
             "explain": "n. 参数"
-        },
-        {
+        },{
             "word": "concat",
             "en": "暂无音标",
             "en_video": "http://dict.youdao.com/dictvoice?audio=concat&type=1",
             "us": "暂无音标",
             "us_video": "http://dict.youdao.com/dictvoice?audio=concat&type=2",
             "explain": "数组连接"
-        },
-        {
+        },{
             "word": "apply",
             "en": "[ə'plaɪ]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=apply&type=1",
             "us": "[ə'plaɪ]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=apply&type=2",
             "explain": "修改this指向"
-        },
-        {
+        },{
             "word": "function",
             "en": "['fʌŋ(k)ʃ(ə)n]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=function&type=1",
             "us": "['fʌŋkʃən]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=function&type=2",
             "explain": "函数"
-        },
-        {
+        },{
             "word": "prototype",
             "en": "['prəʊtətaɪp]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=1",
             "us": "['protə'taɪp]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=prototype&type=2",
             "explain": "n. 原型；标准，模范"
-        },
-        {
+        },{
             "word": "assign",
             "en": "[ə'saɪn]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=assign&type=1",
             "us": "[ə'saɪn]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=assign&type=2",
             "explain": "Object.assign"
-        },
-        {
+        },{
             "word": "constructor",
             "en": "[kənˈstrʌktə(r)]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
             "us": "[kənˈstrʌktər]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
             "explain": "n. 构造函数；构造器；建造者"
-        },
-        {
+        },{
             "word": "null",
             "en": "[nʌl]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=null&type=1",
             "us": "[nʌl]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=null&type=2",
             "explain": "\nadj. 无效的，无价值的；等于零的\nn. 零，[数] 空\n"
-        },
-        {
+        },{
             "word": "undefined",
             "en": "[ʌndɪ'faɪnd]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=undefined&type=1",
             "us": "[,ʌndɪ'faɪnd]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=undefined&type=2",
             "explain": "\nadj. 不明确的；未下定义的\n"
-        },
-        {
+        },{
             "word": "string",
             "en": "[strɪŋ]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=string&type=1",
             "us": "[strɪŋ]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=string&type=2",
             "explain": "\nn. 线，弦，细绳；一串，一行\n"
-        },
-        {
+        },{
             "word": "object",
             "en": "['ɒbdʒɪkt; -dʒekt]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=object&type=1",
             "us": "['ɑbdʒɛkt]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=object&type=2",
             "explain": "\nn. 目标；物体；客体；宾语\nvt. 提出…作为反对的理由\nvi. 反对；拒绝\n"
-        },
-        {
+        },{
             "word": "instanceof",
             "us": "暂无音标",
             "us_video": "http://dict.youdao.com/dictvoice?audio=instance+of&type=2",
             "explain": "\n（类的）实例；（某类别的） 实体\n"
-        },
-        {
+        },{
             "word": "constructor",
             "en": "[kənˈstrʌktə(r)]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=1",
             "us": "[kənˈstrʌktər]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=constructor&type=2",
             "explain": "\nn. 构造函数；构造器；建造者\n"
-        },
-        {
+        },{
             "word": "module",
             "en": "['mɒdjuːl]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=module&type=1",
             "us": "['mɑdʒul]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=module&type=2",
             "explain": "\nn. [计] 模块；组件；模数\n"
-        },
-        {
+        },{
             "word": "compiler",
             "en": "[kəm'paɪlə]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=compiler&type=1",
             "us": "[kəm'paɪlɚ]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=compiler&type=2",
             "explain": "\nn. 编译器；[计] 编译程序；编辑者，汇编者\n"
-        },
-        {
+        },{
             "word": "compilation",
             "en": "[kɒmpɪ'leɪʃ(ə)n]",
             "en_video": "http://dict.youdao.com/dictvoice?audio=compilation&type=1",
             "us": "[,kɑmpɪ'leʃən]",
             "us_video": "http://dict.youdao.com/dictvoice?audio=compilation&type=2",
             "explain": "\nn. 编译；编辑；汇编\n"
-        },
-        {
+        },{
             "word": "prettier",
             "en": "暂无音标",
             "en_video": "http://dict.youdao.com/dictvoice?audio=prettier&type=1",
             "us": "暂无音标",
             "us_video": "http://dict.youdao.com/dictvoice?audio=prettier&type=2",
             "explain": "一个代码规范和错误检查工具"
-        },
-        {
+        },{
             "word": "ESlint",
             "mixed": "暂无音标",
             "mixed_video": "http://dict.youdao.com/dictvoice?audio=ESlint",
             "explain": "一个代码规范和错误检查工具"
+        },{
+            "word": "defineProperty",
+            "mixed": "[dɪ'faɪn]['prɑpɚti]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=define Property",
+            "explain": "Obeject.defineProperty()"
+        },{
+            "word": "observer",
+            "en": "[əb'zɜːvə]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=observer&type=1",
+            "us": "[əb'zɝvɚ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=observer&type=2",
+            "explain": "\nn. 观察者；[天] 观测者；遵守者\n"
+        },{
+            "word": "XMLHttpRequest",
+            "mixed": "暂无音标",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=XMLHttpRequest",
+            "explain": "\n可扩展超文本传输请求（计算机术语）\n"
+        },{
+            "word": "splice",
+            "en": "[splaɪs]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=splice&type=1",
+            "us": "[splaɪs]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=splice&type=2",
+            "explain": "splice() 方法向/从数组指定位置添加/删除项目，然后返回被删除的项目。"
+        },{
+            "word": "blob",
+            "en": "[blɒb]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=blob&type=1",
+            "us": "[blɑb]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=blob&type=2",
+            "explain": "\nn. 一滴；一抹；难以名状的一团\nvt. 弄脏；把…做错\nvi. 得零分；弄错\n"
+        },{
+            "word": "promise",
+            "en": "['prɒmɪs]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=promise&type=1",
+            "us": "['prɑmɪs]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=promise&type=2",
+            "explain": "\nn. 许诺，允诺；希望\nvt. 允诺，许诺；给人以…的指望或希望\nvi. 许诺；有指望，有前途\n"
+        },{
+            "word": "async",
+            "en": "[əˈsɪŋk]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=async&type=1",
+            "us": "[æˈsɪŋk]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=async&type=2",
+            "explain": "\nabbr. 异步，非同步（asynchronous）\n"
+        },{
+            "word": "fetch",
+            "en": "[fetʃ]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=fetch&type=1",
+            "us": "[fɛtʃ]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=fetch&type=2",
+            "explain": "\nvt. 取来；接来；到达；吸引\nvi. 拿；取物；卖得\nn. 取得；诡计\n"
+        },{
+            "word": "fulfilled",
+            "en": "[fʊl'fɪld]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=fulfilled&type=1",
+            "us": "暂无音标",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=fulfilled&type=2",
+            "explain": "\nadj. 满足的；十分愉快的\nv. 实现（fulfill的过去分词）；履行；满足\n"
+        },{
+            "word": "propagation",
+            "en": "[,prɒpə'ɡeɪʃən]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=propagation&type=1",
+            "us": "[ˌprɑpəˈgeʃən]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=propagation&type=2",
+            "explain": "\nn. 传播；繁殖；增殖\n"
+        },{
+            "word": "bubble",
+            "en": "['bʌb(ə)l]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=bubble&type=1",
+            "us": "['bʌbl]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=bubble&type=2",
+            "explain": "\nn. 气泡，泡沫，泡状物；透明圆形罩，圆形顶\nvi. 沸腾，冒泡；发出气泡声\nvt. 使冒泡；滔滔不绝地说\n"
+        },{
+            "word": "debounce",
+            "mixed": "[di'bauns]",
+            "mixed_video": "http://dict.youdao.com/dictvoice?audio=debounce",
+            "explain": "\n函数防抖\n"
+        },{
+            "word": "throttle",
+            "en": "[ˈθrɒtl]",
+            "en_video": "http://dict.youdao.com/dictvoice?audio=throttle&type=1",
+            "us": "[ˈθrɑːtl]",
+            "us_video": "http://dict.youdao.com/dictvoice?audio=throttle&type=2",
+            "explain": "\n函数节流\n"
         }
     ]
 }
